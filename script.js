@@ -7,7 +7,7 @@ const movies = [
   "Pulp Fiction",
 ];
 
-console.log(movies);
+console.log(movies[2]);
 
 //
 //
@@ -19,7 +19,7 @@ const groceries = {
   dairy: ["milk", "cheese", "yogurt"],
 };
 
-console.log(groceries);
+console.log(groceries.fruits[0]);
 
 //
 //
@@ -43,7 +43,7 @@ const onlineStore = [
   },
 ];
 
-console.log(onlineStore);
+console.log(onlineStore[0].name);
 
 //
 //
